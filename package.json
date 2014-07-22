@@ -1,0 +1,16 @@
+{
+  "name": "ass-svg-reporter",
+  "version": "0.1.0",
+  "description": "example of a reporting addition for the ass code coverage npm module",
+  "repository": {
+    "url": "https://github.com/jrgmorrison/svg-reporter"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "main": "index.js",
+  "license": "WTFPL",
+  "dependencies": {
+    "gh-badges": "0.2.3"
+  }
+}
